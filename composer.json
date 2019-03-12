@@ -7,7 +7,7 @@
 
   "require": {
     "php": ">=5.3.3",
-    "pherum/snoopy": "^2.0"
+    "xj/snoopy": "^2.0"
   },
 
   "autoload": {
