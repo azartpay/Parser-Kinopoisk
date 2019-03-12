@@ -1,5 +1,5 @@
 {
-  "name":         "eadanilenko/kinopoisk-info",
+  "name":         "azartpay/Parser-Kinopoisk",
   "description":  "Parse kinopoisk.ru",
   "keywords":     ["parser", "kinopoisk"],
   "type":         "library",
